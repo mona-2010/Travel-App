@@ -1,7 +1,3 @@
-
-
----
-
 # **🌍 Travel-Journal App**  
 
 A full-stack **MERN** application for travel journaling, allowing users to book trips, manage itineraries, and access support.  
