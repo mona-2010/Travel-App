@@ -1,4 +1,4 @@
-Here’s a **README.md** file with complete setup instructions for your **Travel-Journal App** (Frontend + Backend).  
+
 
 ---
 
