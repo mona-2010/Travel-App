@@ -47,7 +47,7 @@ BASE_URL=http://localhost:4000/api/v1
 
 ### **4️⃣ Start the Backend Server**  
 ```bash
-npm start
+npm run start-dev
 ```
 or (if using `nodemon`)  
 ```bash
