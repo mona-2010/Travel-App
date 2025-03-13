@@ -70,13 +70,7 @@ cd ../frontend
 npm install
 ```
 
-### **3️⃣ Create a `.env` File**  
-Inside the **frontend** folder, create a `.env` file:  
-```env
-REACT_APP_BASE_URL=http://localhost:4000/api/v1
-```
-
-### **4️⃣ Start the Frontend Server**  
+### **3️⃣ Start the Frontend Server**  
 ```bash
 npm start
 ```
