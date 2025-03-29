@@ -39,8 +39,6 @@ Create a `.env` file inside the **backend** folder and add the following environ
 ```env
 PORT=4000
 MONGO_URI=mongodb+srv://your_username:your_password@cluster.mongodb.net/yourDB
-JWT_SECRET=your_jwt_secret
-BASE_URL=http://localhost:4000/api/v1
 ```
 
 > ⚠️ **Note**: Replace `MONGO_URI` with your **MongoDB Atlas** or **local MongoDB connection string**.
